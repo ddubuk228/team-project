@@ -1,6 +1,8 @@
 public class Hello {
 	public static void main(String[] args){
-		Sys.out.println("Hello Git");
+		System.out.println("Hello Git");
+		Sysyem.out.println("What is Git?");
+
 	}
 }
 
